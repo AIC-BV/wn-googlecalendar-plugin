@@ -1,0 +1,19 @@
+{
+    "name": "aic/wn-googlecalendar-plugin",
+    "type": "winter-plugin",
+    "description": "Wrapper plugin for Spatie Laravel Google Calendar: https://github.com/spatie/laravel-google-calendar for WinterCMS",
+    "keywords": ["winter", "cms", "google calendar", "spatie", "plugin"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Meindert Stijfhals",
+            "email": "meindertstijfhals@hotmail.com",
+            "role": "Original Author"
+        }
+    ],
+    "require": {
+        "php": ">=7.2",
+        "composer/installers": "~1.0",
+        "spatie/laravel-google-calendar": "^3.6"
+    }
+}
